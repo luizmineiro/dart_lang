@@ -1,1 +1,3 @@
-# dart_lang
+# Dart_lang
+
+Repositorio para estudos na linguagem de programação Dart
