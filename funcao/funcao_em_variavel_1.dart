@@ -1,5 +1,5 @@
 void main() {
-  int a = 2;
+  // int a = 2;
 
   int Function(int, int) soma1 = somaFn;
   print(soma1(20, 1030));
